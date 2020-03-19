@@ -94,3 +94,15 @@ main {
   font-weight: 500;
   padding-bottom: 10px;
 }
+
+@media (max-width: 600px) {
+  #word-input {
+    width: 80%;
+  }
+  .time-score {
+    width: 70%;
+  }
+  .instructions {
+    width: 80%;
+  }
+}
