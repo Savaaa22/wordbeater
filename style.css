@@ -105,6 +105,9 @@ main {
   .instructions {
     width: 80%;
   }
+  .word {
+    font-size: 50px;
+  }
 }
 
 .sava {
